@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "1",
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC",
+      "price": "7.99"
     },
     {
       "id": "2",
@@ -22,12 +22,7 @@
     },
     {
       "id": "5",
-      "name": "Fone de Ouvido",
-      "price": "99.90"
-    },
-    {
-      "id": "6",
-      "name": "iPhone 15",
+      "name": "iPhone 15 Pro Max",
       "price": "4200"
     }
   ]
