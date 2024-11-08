@@ -10,9 +10,15 @@
 
     span {
         color: #FFF;
+        display: flex;
     }
 }
 
 .sidenav i {
     padding-right: 7px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #FFF;
 }
